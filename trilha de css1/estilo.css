@@ -1,0 +1,197 @@
+
+ @font-face {
+    font-family: raleway;
+    src: url(./fonts/Raleway-VariableFont_wght.ttf);}
+    *{
+        font-family: raleway;
+        
+    }
+    
+body{
+margin: 0px;
+background-color: #000000;
+}
+
+.banner{
+text-align: center;
+width: 1440px;
+height: 564px;
+border: 0px, 0px, 1px, 0px;
+margin: 0px;
+border-bottom: #0000CD 2px solid;
+}
+
+.banner-content{
+    width: 510px;
+    height: 393px;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.h1div1{
+    background: -webkit-linear-gradient(#0000CD	,#ADD8E6	);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.logo{
+    background-color: #00000033;
+    margin: 10px 130px 10px;
+    border-radius: 50%;
+}
+.img2{
+    background-image:-webkit-linear-gradient(#04080A, #091A21, #04080A);
+    position: relative;
+    left: -510px;
+    top: -440px;
+    opacity: 1.0;
+    z-index: -1;
+    border-image-repeat: repeat;
+}
+#p1{
+    color: white;
+    font-size: auto;
+}
+#button1{
+    padding: 15px 70px 15px;
+    border: 2px solid #0000CD;
+    background-color: transparent;
+    font-size: 20px;
+    line-height: 19px;
+    font-family: raleway;
+    background: -webkit-linear-gradient(#0000CD	,#ADD8E6	);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
+#course-content{
+width: 1440px;
+height: 2491px;
+top: -225px;
+left: 709px;
+}
+.h2div2{
+    font-family: raleway;
+    background: -webkit-linear-gradient(#0000CD	,#ADD8E6	);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-size: 64px;
+}
+.p2{
+color: #FFFFFF;
+margin-left: 23%;
+width: 700px;
+}
+
+.module{
+    width: 451px;
+    height: 57px;
+  padding: 16px, 73px, 16px, 73px;
+  border-radius: 57px;
+  border: #33A8DB solid 1px;
+    margin-left: 30%;
+    color: #FFFFFF;
+    font-family: Raleway;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+}
+span{
+color: 
+#33A8DB;
+}
+.module2{
+    width: 451px;
+    height: 57px;
+  padding: 16px, 73px, 16px, 73px;
+  border-radius: 57px;
+  border: #33A8DB solid 1px;
+    margin-left: 30%;
+    color: #FFFFFF;
+    text-align: center;
+}
+.module3{
+    width: 451px;
+    height: 57px;
+  padding: 16px, 73px, 16px, 73px;
+  border-radius: 57px;
+  border: #33A8DB solid 1px;
+    margin-left: 30%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    color: #FFFFFF;
+    text-align: center;
+}
+#professional-challenges{
+width: 1440px;
+height: 263px;
+
+
+}
+.div2{
+    
+    width: 1440px;
+    height: 373px;
+}
+.img3{
+    width: 1440px;
+    height: 363px;
+    position: relative;
+    top: -2218px;
+    z-index: -1;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#transform-world{
+font-family: raleway;
+width: 244px;
+height: 141px;
+color: #FFFFFF;
+text-shadow: 2px 2px #33A8DB;
+top: -1938px;
+position: relative;
+left: 268px;
+font-weight: 700px;
+font-size: 40px;
+}
+.h2div4{
+    left: 23%;
+    font-family: raleway;
+    background: -webkit-linear-gradient(#0000CD	,#ADD8E6	);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    top: -1638px;
+    position: relative;
+    font-size: 32px;
+   
+}
+.img4{
+    position: relative;
+    left: 25%;
+    top: -1988px;
+}
+.p{
+    position: relative;
+    left: 14%;
+    color: #FFFFFF;
+    width: 1000px;
+    top: -1938px;
+    font-size: 20px;
+}
+.dio-logo{
+    position: relative;
+    left: 28%;
+    top: -1138px;
+
+}
+.p3{
+    position: relative;
+    height: 200px;
+    top: -1038px;
+    width: 500px;
+    font-size: 30px;
+    color: #FFFFFF;
+    left: 24%;
+}
